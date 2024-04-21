@@ -1,0 +1,57 @@
+2
+me
+67pswd@
+me@outlook.com
+A
+Alexandrescu
+12345
+Bucharest, Romania
+123
+me
+67pswd@
+1
+me
+9
+Wroclaw, Poland
+Duplex
+Located in Wroclaw, Poland, this spacious duplex apartment offers modern living in a vibrant city setting.
+3
+2
+75
+living room
+3.5
+4.1
+2
+y
+y
+y
+y
+bathroom
+3.4
+1.2
+n
+y
+n
+y
+y
+n
+y
+kitchen
+4.3
+3
+y
+n
+n
+n
+y
+y
+y
+2
+3
+1
+0
+2
+1
+0
+0
+1
