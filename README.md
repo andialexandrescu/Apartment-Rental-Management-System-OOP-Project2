@@ -16,7 +16,7 @@ The host is prompted immediately to create an account and specify the number of 
 After specifying the apartment details, including the layout of rooms and their respective amenities, the host can view a floor plan
 and access the updated search submenu.
 
-# Tehnical implementations:
+# Technical implementations:
 
 (1) - These choices are slightly different, considering an apartment might host more people due to its capacity,
 however it might have fewer rooms than expected.
